@@ -96,6 +96,7 @@ StudyBuddy is designed to assist you in various study-related tasks, including:
 
 ### Note:
 StudyBuddy can perform efficiently with any PDF containing text content, as well as with any website URL containing text content. Whether it's extracting key information from documents or summarizing web articles, StudyBuddy is your reliable study companion!
+Also, the larger the file size of the PDF uploaded the longer the processing time. 
 
 ## Limitations
 
